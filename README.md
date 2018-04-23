@@ -4,7 +4,7 @@
 
 Necessita do NodeJS e do NPM préviamente instalados.
 
-Versõe utilizadas no processo de desenvolvimento:
+Versões utilizadas no processo de desenvolvimento:
 ```
 NodeJS v6.3.1
 NPM v5.8.0
