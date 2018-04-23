@@ -2,20 +2,20 @@
 
 > A Vue.js project
 
-## Build Setup
+Necessita do NodeJS e do NPM préviamente instalados.
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+Versõe utilizadas no processo de desenvolvimento:
+```
+NodeJS v6.3.1
+NPM v5.8.0
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Setup
+
+``` bash
+# instalar dependencias
+npm install
+
+# Server em localhost:8080
+npm run start
+```
